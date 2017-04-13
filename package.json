@@ -1,0 +1,19 @@
+{
+  "name": "progetto_scuola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliCaruso/ProgettoScuola.git"
+  },
+  "author": "Elisa Caruso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EliCaruso/ProgettoScuola/issues"
+  },
+  "homepage": "https://github.com/EliCaruso/ProgettoScuola#readme"
+}
