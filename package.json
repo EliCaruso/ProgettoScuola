@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EliCaruso/ProgettoScuola/issues"
   },
-  "homepage": "https://github.com/EliCaruso/ProgettoScuola#readme"
+  "homepage": "https://github.com/EliCaruso/ProgettoScuola#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
